@@ -1,4 +1,4 @@
-[### Hi there 👋
+
 
 <!--
 **analystnikita/analystnikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Nikita Bakodiya</h1>
+<h1 align="center">Hello 👋, I'm Nikita Bakodiya</h1>
 
 - 🔭 I'm currently studying about: **Python, Machine Learning, Data Science, Analytics**
 
