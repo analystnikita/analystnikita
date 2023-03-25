@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 E-mail: **analyst.nikita@gmail.com**
 
-- 📄 I'm a Electronics and Communication Engineer with eight years of experience in product development in the automotive engineering segment.
+- 📄 I'm a Electronics and Communication Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
