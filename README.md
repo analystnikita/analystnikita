@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello 👋, I'm Nikita Bakodiya</h1>
+<h1 align="center">Hello 👋, I'm Nikita</h1>
 
 - 🔍 I love digging into data to uncover insights and drive business decisions.
 
