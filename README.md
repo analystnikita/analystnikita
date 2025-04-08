@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 - 🌍 Enjoy working with diverse teams and collaborating on projects.
 
-- 💡 I’m currently pursuing **MBA in Business Analytics**
+- 💼 Currently working as a Data Analyst at Vivriti Capital
+
+- 💡 **MBA in Business Analytics**
 
 - 🎓 Bachelor's degree in Electronics and Communication Engineering
 
