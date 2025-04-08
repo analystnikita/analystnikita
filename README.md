@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🎓 Bachelor's degree in Electronics and Communication Engineering
 
-- 🔭 I'm currently Upskilling on : **SQL, Python, Machine Learning, Data Science**
+- 🔭 Tech stack that I use daily : **SQL, Power BI, Python, Machine Learning, Data Science**
 
 
 📧 Feel free to reach out and connect!
