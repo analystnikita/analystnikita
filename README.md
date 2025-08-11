@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌍 Enjoy working with diverse teams and collaborating on projects.
 
-- 💼 Currently working as a Data Analyst at Vivriti Capital
+- 💼 Currently working as a Senior Associate - Data Science at Vivriti Capital
 
 - 💡 **MBA in Business Analytics**
 
